@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm doing a PhD at the Barcelona Supercomputing Center (BSC) on Linux Kernel and runtime systems.
 <!--
 **aleixrocks/aleixrocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
